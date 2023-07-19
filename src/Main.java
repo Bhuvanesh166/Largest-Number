@@ -9,7 +9,7 @@ import java.util.Scanner;
         Collections.sort(arr, new Comparator<String>()
         {
 
-            @Override public int compare(String X, String Y)
+             public int compare(String X, String Y)
             {
 
 
